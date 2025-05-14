@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/mcp-mirror-houtj-dlis-mcp-server-badge.png)](https://mseep.ai/app/mcp-mirror-houtj-dlis-mcp-server)
+
 # DLIS MCP Server
 
 A Model Context Protocol server that provides DLIS (Digital Log Interchange Standard) file analysis capabilities. This server enables LLMs to extract information from DLIS files, including channel data and metadata, with support for hierarchical data structures.
